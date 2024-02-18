@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: FireParticles_Mat
-  m_Shader: {fileID: -6465566751694194690, guid: ddf0c0e603eae9b429928da8cc3b814f,
+  m_Shader: {fileID: -6465566751694194690, guid: 0083a562838e53e41adbc1767e876155,
     type: 3}
   m_ValidKeywords:
   - _ENABLE_FOG_ON_TRANSPARENT
@@ -35,8 +35,28 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_04a48b40dfa84eb18209cbc1f39917e9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_211ecb325bf04a329a320779128cb6a5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_23DD87FD:
         m_Texture: {fileID: 2800000, guid: c40964e45ced1964b9854ea5d51b5a9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4c31ad4ed6f74e54b2a9bee14a89bf45:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_59f77228d26442acba0a40c96feff74b:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_812992c27a7d4dceb6a65937a8ca6eda:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AnisotropyMap:
@@ -127,6 +147,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ParticleTexture:
+        m_Texture: {fileID: 2800000, guid: c40964e45ced1964b9854ea5d51b5a9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SVBRDF_AlphaMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -209,6 +233,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_475de7a9d1734fd9b8f53a10a01c681f: 2
     - _AORemapMax: 1
     - _AORemapMin: 0
     - _ATDistance: 1
@@ -389,6 +414,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
+    - Color_862d074edafc4d6ba5813f2d0b8eca3a: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
@@ -409,6 +435,7 @@ Material:
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _MappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _Material_SO: {r: 1, g: 1, b: 0, a: 0}
+    - _ParticleColor: {r: 1.8408926, g: 1.8408926, b: 1.8408926, a: 0}
     - _SVBRDF_AlphaMap_SO: {r: 1, g: 1, b: 0, a: 0}
     - _SVBRDF_AnisoRotationMap_SO: {r: 1, g: 1, b: 0, a: 0}
     - _SVBRDF_ClearcoatColorMap_SO: {r: 1, g: 1, b: 0, a: 0}
