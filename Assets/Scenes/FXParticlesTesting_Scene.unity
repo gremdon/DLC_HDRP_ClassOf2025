@@ -491,5 +491,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Campfire
       objectReference: {fileID: 0}
+    - target: {fileID: 5857135025054194352, guid: 803dc6bd0dbb43442be83230bcfb4570,
+        type: 3}
+      propertyPath: prewarm
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 803dc6bd0dbb43442be83230bcfb4570, type: 3}
