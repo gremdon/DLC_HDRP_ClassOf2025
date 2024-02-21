@@ -139,7 +139,7 @@ Material:
     m_Ints: []
     m_Floats:
     - Vector1_3107DAA7: 10
-    - Vector1_475de7a9d1734fd9b8f53a10a01c681f: 2
+    - Vector1_475de7a9d1734fd9b8f53a10a01c681f: 10.8
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 0
@@ -209,7 +209,7 @@ Material:
     - _numSteps: 5.25
     m_Colors:
     - Color_1D668B36: {r: 1, g: 1, b: 1, a: 0}
-    - Color_862d074edafc4d6ba5813f2d0b8eca3a: {r: 0, g: 0, b: 0, a: 0}
+    - Color_862d074edafc4d6ba5813f2d0b8eca3a: {r: 1, g: 0.39242283, b: 0, a: 0}
     - _Color: {r: 2, g: 0.020206507, b: 0, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
